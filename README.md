@@ -1,6 +1,8 @@
 # MiraVariable
 A VertexAI Google Cloud Platform Project on Mira Variables
 
+![PhotoReal_wise_turtle_surfing_the_data_wave_of_new_era_of_tech_2 (1)](https://github.com/notvicent3/MiraVariable/assets/132854638/91e6ef23-5c1b-4a54-9036-bcdf45335775)
+
 ## MiraVariable: A VertexAI Google Cloud Platform Project on Mira Variables
 
 **Overview**
